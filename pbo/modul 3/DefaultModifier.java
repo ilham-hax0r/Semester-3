@@ -1,3 +1,7 @@
+/*
+ * @author Ilham Wicaksono
+ * @app : netbeans IDE 8.2
+ */
 package newpackage;
 class DefaultModifier {
     int a=1;
